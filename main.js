@@ -79,8 +79,8 @@ window.onload = function(){
 // ■■■■■■■■■■■■■■■■■■■■■■■■■■■■■■■■■■■■■■■■■■■■■■■■■■■■■■■■■■■■■■■■■■■■■■■■■■■■
 // ■■■　画像読み込み処理　■■■
 function LoadingImages() {
-    MarioL = new Image(); MarioL.src = "img/mario_left.png";  // マリオ画像読み込み
-    MarioR = new Image(); MarioR.src = "img/mario_right.png"; // マリオ画像読み込み
+    MarioL = new Image(); MarioL.src = "./mario_left.png";  // マリオ画像読み込み
+    MarioR = new Image(); MarioR.src = "./mario_right.png"; // マリオ画像読み込み
 }
 // ■■■■■■■■■■■■■■■■■■■■■■■■■■■■■■■■■■■■■■■■■■■■■■■■■■■■■■■■■■■■■■■■■■■■■■■■■■■■
 
